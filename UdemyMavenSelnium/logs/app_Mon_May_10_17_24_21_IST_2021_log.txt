@@ -1,0 +1,2 @@
+INFO    2021-05-10 17:24:21,244 [main] testCases.TestLogs  - This is Information logger
+ERROR   2021-05-10 17:24:21,246 [main] testCases.TestLogs  - This is Error logger
